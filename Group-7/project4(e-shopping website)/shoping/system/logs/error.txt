@@ -1,0 +1,4 @@
+2014-04-20 6:03:54 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\shoping/admin/view/template/catalog/download_list.tpl! in C:\xampp\htdocs\shoping\system\engine\controller.php on line 90
+2014-04-20 17:04:23 - PHP Warning:  fopen(C:\xampp\htdocs\shoping/download/test): failed to open stream: No such file or directory in C:\xampp\htdocs\shoping\admin\controller\common\home.php on line 99
+2014-04-20 17:04:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shoping\admin\controller\common\home.php on line 101
+2014-04-20 17:04:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\shoping\admin\controller\common\home.php on line 103

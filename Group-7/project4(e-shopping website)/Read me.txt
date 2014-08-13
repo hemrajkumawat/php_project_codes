@@ -1,0 +1,8 @@
+=======================================================================================
+(1) Import shopping.sql to your Phpmyadmin .
+-----database Name: shoping
+-----Create user in Mysql admin with all previleges usename=mahesh Password==mamtamahesh
+(2) Install these files to root directory of your server.
+(3) Navigate catalog folder for user view.
+(4) Navigate Admin in URL for Admin options : username== admin Password==maheshpatel
+========================================================================================
